@@ -1,0 +1,45 @@
+h1 {
+	color: black;
+	font-family: Times;
+	font-weight: bold;
+	font-size: 24pt;
+	text-align: center;
+}
+
+h2 {
+	color: black;
+	font-family: Times;
+	font-weight: bold;
+	font-size: 12pt;
+	text-align: left;
+	margin-bottom: 0px;
+}
+
+p {
+	font-family: Times;
+	color: black;
+	font-weight: normal;
+	font-size: 12pt;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+body {
+	background-color: LemonChiffon;
+}
+
+ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+div {
+	font-family: Times;
+	color: black;
+	font-weight: normal;
+	font-size: 12pt;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
